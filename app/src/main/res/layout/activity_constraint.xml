@@ -16,7 +16,9 @@
         android:layout_height="wrap_content"
         android:text="Layout Play"
         android:textSize="36sp"
-        android:textStyle="normal" />
+        android:textStyle="normal"
+        tools:layout_editor_absoluteX="99dp"
+        tools:layout_editor_absoluteY="74dp" />
 
     <ImageView
         android:id="@+id/image1"
@@ -27,19 +29,25 @@
         android:id="@+id/button1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button" />
+        android:text="Button"
+        tools:layout_editor_absoluteX="88dp"
+        tools:layout_editor_absoluteY="367dp" />
 
     <Button
         android:id="@+id/button2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button" />
+        android:text="Button"
+        tools:layout_editor_absoluteX="64dp"
+        tools:layout_editor_absoluteY="268dp" />
 
     <Button
         android:id="@+id/button3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button" />
+        android:text="Button"
+        tools:layout_editor_absoluteX="72dp"
+        tools:layout_editor_absoluteY="171dp" />
 
     <ImageView
         android:layout_width="wrap_content"
